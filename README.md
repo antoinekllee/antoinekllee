@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinekllee&show_icons=true&theme=dracula&include_all_commits)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinekllee&langs_count=8&layout=compact&theme=dracula&exclude_repo=The-Shadow-Crossing,Warlandia,Synergy-Interactive-Game)
+<a href="https://github.com/antoinekllee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antoinekllee&show_icons=true&theme=dracula&include_all_commits" />
+</a>
+<a href="https://github.com/antoinekllee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinekllee&langs_count=8&layout=compact&theme=dracula&exclude_repo=The-Shadow-Crossing,Warlandia,Synergy-Interactive-Game" />
+</a>
 
 <!--
 **antoinekllee/antoinekllee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
