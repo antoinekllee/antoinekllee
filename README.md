@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey there! 👋
+
+My name is Antoine, an avid programmer currently immersed in the exciting world of indie game development! 🎮 I am deeply passionate about AI and full stack development, and I am always eager to explore new technologies and push the boundaries of what's possible.
+
+I love crafting experiences that can be shared with others- I'm currently working on a game called [Archesis](https://store.steampowered.com/app/2369930/Archesis/) under my indie game studio [Dynabox Games](https://www.dynaboxgames.com)!
+
+On the AI front, I'm in the process of developing Examon AI, a platform that leverages generative AI and GPT technology to create IB exam-style questions, mark schemes, and model answers for students. It's also designed to mark and provide feedback on student uploaded answers. A prototype of this exciting project will be available soon on [examon.ai](https://www.examon.ai).
 
 <p align="center">
   <a href="https://github.com/antoinekllee">
@@ -9,21 +15,12 @@
   </a>
 </p>
 
+## 🔧 Technologies & Tools
 
+I specialise in Unity and C# for game development and MERN stack for full stack development. However, I'm a firm believer in the right tool for the job, and I'm always eager to learn and adapt to new technologies when needed. You'll also find me working with TypeScript, Java, Swift, Python for AI and ML, AWS for cloud services and more! 
 
+## 🌱 I’m currently learning ...
 
+I am continuously learning and updating my skills. Recently, I've been delving deeper into Machine Learning models and cloud computing technologies.
 
-<!--
-**antoinekllee/antoinekllee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for stopping by!
