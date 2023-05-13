@@ -17,10 +17,6 @@ On the AI front, I'm in the process of developing Examon AI, a platform that lev
 
 ## 🔧 Technologies & Tools
 
-I specialise in Unity and C# for game development and MERN stack for full stack development. However, I'm a firm believer in the right tool for the job, and I'm always eager to learn and adapt to new technologies when needed. You'll also find me working with TypeScript, Java, Swift, Python for AI and ML, AWS for cloud services and more! 
-
-## 🌱 I’m currently learning ...
-
-I am continuously learning and updating my skills. Recently, I've been delving deeper into Machine Learning models and cloud computing technologies.
+I specialise in Unity and C# for game development and MERN stack for full stack development. However, I'm always eager to learn and adapt to new technologies when needed. You'll also find me working with TypeScript, Java, Swift, Python for AI and ML, AWS for cloud services and more! 
 
 Thank you for stopping by!
