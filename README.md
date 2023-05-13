@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinekllee&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinekllee)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Antoine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoinekllee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinekllee&hide=ShaderLab&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **antoinekllee/antoinekllee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
