@@ -4,7 +4,7 @@ My name is Antoine, an avid programmer currently immersed in the exciting world 
 
 I love crafting experiences that can be shared with others- I'm currently working on a game called [Archesis](https://store.steampowered.com/app/2369930/Archesis/) under my indie game studio [Dynabox Games](https://www.dynaboxgames.com)!
 
-On the AI front, I'm in the process of developing Examon AI, a platform that leverages generative AI and GPT technology to create IB exam-style questions, mark schemes, and model answers for students. It's also designed to mark and provide feedback on student uploaded answers. A prototype of will be available soon on [examon.ai](https://www.examon.ai).
+On the AI front, I'm in the process of developing Examon AI, a platform that leverages generative AI and GPT technology to create IB exam-style questions, mark schemes, and model answers for students. It's also designed to mark and provide feedback on student uploaded answers. Join the waitlist on [examon.ai](https://www.examon.ai).
 
 
 <p align="center">
