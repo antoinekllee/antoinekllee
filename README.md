@@ -21,6 +21,8 @@ On the AI front, I'm in the process of developing Examon AI, a platform that lev
   </a>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=antoinekllee&theme=dracula&card_width=500)](https://git.io/streak-stats)
+
 ## 🔧 Technologies & Tools
 
 I specialise in Unity and C# for game development and MERN stack for full stack development. However, I'm always eager to learn and adapt to new technologies when needed. You'll also find me working with TypeScript, Java, Swift, Python for AI and ML, AWS for cloud services and more! 
