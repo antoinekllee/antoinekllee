@@ -17,9 +17,13 @@ On the AI front, I'm in the process of developing Examon AI, a platform that lev
 </p>
 <p align="center">
     <a href="https://github.com/antoinekllee">
-    <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=antoinekllee&show_icons=true&theme=dracula&include_all_commits](https://streak-stats.demolab.com?user=antoinekllee&theme=dracula&card_width=500)]" />
+    <img height="165em" src="https://streak-stats.demolab.com?user=antoinekllee&theme=dracula&card_width=500" />
   </a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=antoinekllee&theme=dracula&card_width=500)]
+
+
 
 ## 🔧 Technologies & Tools
 
