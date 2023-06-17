@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-My name is Antoine, an avid programmer currently immersed in the exciting world of indie game development! 🎮 I am deeply passionate about AI and full stack development, and I am always eager to explore new technologies and push the boundaries of what's possible.
+My name is Antoine, an avid programmer currently immersed in the exciting world of indie game development! 🎮 I am also deeply passionate about AI and full stack development, and always eager to explore new technologies and push the boundaries of what's possible.
 
 I love crafting experiences that can be shared with others- I'm currently working on a game called [Archesis](https://store.steampowered.com/app/2369930/Archesis/) under my indie game studio [Dynabox Games](https://www.dynaboxgames.com)!
 
@@ -23,5 +23,3 @@ On the AI front, I'm in the process of developing Examon AI, a platform that lev
 ## 🔧 Technologies & Tools
 
 I specialise in Unity and C# for game development and MERN stack for full stack development. However, I'm always eager to learn and adapt to new technologies when needed. You'll also find me working with TypeScript, Java, Swift, Python for AI and ML, AWS for cloud services and more! 
-
-Thank you for stopping by!
