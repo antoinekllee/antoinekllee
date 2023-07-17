@@ -24,4 +24,4 @@ On the AI front, I'm in the process of developing Examon AI, a platform that lev
 
 I specialise in Unity and C# for game development and MERN stack for full stack development (using frameworks like nextjs or gatsby). However, I'm always eager to learn and adapt to new technologies when needed. You'll also find me working with TypeScript, Java, Swift, Python for AI and ML, AWS for cloud services and more!
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,js,nextjs,mongodb,py,flask,aws,html,css,gatsby,react,unity,cs,github,d3,dynamodb,java,raspberrypi,postman,firebase,postgres,sequelize,sqlite,tensorflow,vscode,ai,ps,figma,eclipse,cpp&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,ts,js,nextjs,mongodb,py,flask,aws,html,css,gatsby,react,unity,cs,github,d3,dynamodb,java,raspberrypi,postman,firebase,postgres,sequelize,sqlite,tensorflow,vscode,ai,ps,figma,eclipse,cpp&perline=16)]
