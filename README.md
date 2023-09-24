@@ -19,6 +19,9 @@ On the AI front, I'm in the process of developing Examon AI, a platform that lev
     <img height="165em" src="https://streak-stats.demolab.com?user=antoinekllee&theme=dracula&card_width=550" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/antoinekllee"><img title="Antoine's Contribution Graph" alt="Antoine's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antoinekllee&theme=dracula" /></a>
+</p>
 
 ## 🔧 Technologies & Tools
 
